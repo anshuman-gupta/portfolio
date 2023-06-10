@@ -1,0 +1,28 @@
+{
+    "education":[
+        {
+            "title": "Jun 2018 - Jun 2022",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"UIET Kanpur",
+            "cardDetailedText": "CGPA - 8.1",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Jun 2015 - Jun 2017", 
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Agarwal Public Inter College",
+            "cardDetailedText": "Marks - 84.4%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Jun 2013 - Jun 2015",
+            "cardTitle": "High School",
+            "cardSubtitle":"C.F.A.H.S. School Mariyanav Lucknow",
+            "cardDetailedText": "Marks - 78.5%"
+        }
+    ]
+}

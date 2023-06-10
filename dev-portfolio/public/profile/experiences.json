@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "Python Full Stack Developer",
+            "subtitle": "Innefu Lab Private Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on creating APIs in python and django",
+                "12/2022 – Present"
+            ],
+            "dateText": "12/2022 – Present"
+        },
+        {
+            "title": "Web Development Intern",
+            "subtitle": "The Sparks Foundation",
+            "workType": "Internship",
+            "workDescription": [
+                "designed and developed online banking system",
+                "07/2021 – 08/2021"
+            ],
+            "dateText": "07/2021 – 08/2021"
+        },
+        {
+            "title": " Python Developer",
+            "subtitle": "cppsecrets.com",
+            "workType": "Internship",
+            "workDescription": [
+                "explored the packages of python and written the articles on them",
+                "was the Platinum author at cppsecrets.com",
+                "05/2020 – 07/2020"
+            ],
+            "dateText": "05/2020 – 07/2020"
+        }
+    ]
+}
